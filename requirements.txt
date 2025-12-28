@@ -1,0 +1,5 @@
+Flask>=2.0
+cryptography>=3.0
+urllib3>=1.26
+# https://github.com/almottier/TapoP100
+git+https://github.com/almottier/TapoP100.git@main

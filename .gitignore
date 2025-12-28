@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+venv/
+
+# Logs
+logs/
+*.log
+
+# Config & Secrets
+config.py
+cert.pem
+key.pem
+
+# Third-party tools
+nssm-2.24/
+nssm.exe
+
+# IDE
+.vscode/
+.idea/
